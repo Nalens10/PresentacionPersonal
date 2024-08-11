@@ -20,7 +20,7 @@ object programacionConObjetos {
 * Horario comisión **turno mañana**: Miercoles 8hs.
 * Horario **ambas comisión**: Sabados 10hs.
 * Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores alentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón y Cristian Gonzalez.
+* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez y Gabriel Ledezma.
 
 ## Links importantes :monocle_face:
 - [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
