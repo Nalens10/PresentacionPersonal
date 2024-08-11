@@ -16,16 +16,16 @@ object programacionConObjetos {
 
 ## Datos de la cursada :book:
 * Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
+* Horario comisión **turno noche**: Martes 18hs.
+* Horario comisión **turno mañana**: Miercoles 8hs.
+* Horario **ambas comisión**: Sabados 10hs.
 * Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Micaela Bidegain, Branko Muruaga y Maricel Benitez.
+* Además nos acompañan como colaboradores alentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón y Cristian Gonzalez.
 
 ## Links importantes :monocle_face:
 - [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
+- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
 
 ### Referencias Markdown 
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
